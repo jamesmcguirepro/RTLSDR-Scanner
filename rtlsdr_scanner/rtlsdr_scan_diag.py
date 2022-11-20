@@ -33,7 +33,7 @@ LIBS = [('wx', 'wxPython', 'http://www.wxpython.org/download.php', True, True),
         ('numpy', 'Numpy', 'http://sourceforge.net/projects/numpy/files/NumPy/', True, True),
         ('matplotlib', 'matplotlib', 'http://matplotlib.org/users/installing.html', True, True),
         ('serial', 'pySerial', 'https://pypi.python.org/pypi/pyserial', True, True),
-        ('rtlsdr', 'pyrtlsdr', 'https://github.com/roger-/pyrtlsdr', False, False),
+        ('rtlsdr', 'pyrtlsdr', 'https://github.com/pyrtlsdr/pyrtlsdr', False, False),
         ('PIL.Image', 'Pillow', 'https://pypi.python.org/pypi/Pillow', True, True)]
 
 
